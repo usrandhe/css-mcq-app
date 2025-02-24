@@ -1,0 +1,846 @@
+{
+  "questions": [
+    {
+      "skill": "CSS",
+      "difficulty": "Easy",
+      "question": "Which property is used to change the background color?",
+      "options": ["color", "background-color", "bgcolor", "background"],
+      "correct": "background-color"
+    },
+    {
+      "skill": "CSS",
+      "difficulty": "Easy",
+      "question": "Which unit is relative to the font-size of the element?",
+      "options": ["em", "px", "rem", "%"],
+      "correct": "em"
+    },
+    {
+      "skill": "CSS",
+      "difficulty": "Easy",
+      "question": "Which property controls the text size?",
+      "options": ["font-style", "text-size", "font-size", "size"],
+      "correct": "font-size"
+    },
+    {
+      "skill": "CSS",
+      "difficulty": "Easy",
+      "question": "What does CSS stand for?",
+      "options": [
+        "Cascading Style Sheets",
+        "Colorful Style Sheets",
+        "Computer Style Sheets",
+        "Creative Style Sheets"
+      ],
+      "correct": "Cascading Style Sheets"
+    },
+    {
+      "skill": "CSS",
+      "difficulty": "Easy",
+      "question": "Which CSS property is used to change text color?",
+      "options": ["color", "text-color", "font-color", "foreground-color"],
+      "correct": "color"
+    },
+    {
+      "skill": "CSS",
+      "difficulty": "Easy",
+      "question": "Which CSS property is used to set the font of a text?",
+      "options": ["font-family", "text-style", "font-weight", "font"],
+      "correct": "font-family"
+    },
+    {
+      "skill": "CSS",
+      "difficulty": "Easy",
+      "question": "How do you make text bold in CSS?",
+      "options": [
+        "font-style: bold;",
+        "font-weight: bold;",
+        "text-bold: yes;",
+        "font-thickness: bold;"
+      ],
+      "correct": "font-weight: bold;"
+    },
+    {
+      "skill": "CSS",
+      "difficulty": "Easy",
+      "question": "Which CSS property is used to add space inside an element, between the content and the border?",
+      "options": ["margin", "padding", "spacing", "border-width"],
+      "correct": "padding"
+    },
+    {
+      "skill": "CSS",
+      "difficulty": "Easy",
+      "question": "Which property is used to align text to the center of an element?",
+      "options": ["align", "text-align", "center-text", "text-position"],
+      "correct": "text-align"
+    },
+    {
+      "skill": "CSS",
+      "difficulty": "Easy",
+      "question": "Which CSS property is used to control the space outside an element?",
+      "options": ["padding", "margin", "border", "spacing"],
+      "correct": "margin"
+    },
+    {
+      "skill": "CSS",
+      "difficulty": "Easy",
+      "question": "What is the default value of the CSS 'display' property?",
+      "options": ["block", "inline", "none", "flex"],
+      "correct": "block"
+    },
+    {
+      "skill": "CSS",
+      "difficulty": "Easy",
+      "question": "Which CSS property is used to set the line height of a text?",
+      "options": ["line-height", "text-height", "font-height", "height"],
+      "correct": "line-height"
+    },
+    {
+      "skill": "CSS",
+      "difficulty": "Easy",
+      "question": "Which property is used to add an underline to text?",
+      "options": [
+        "text-decoration: underline;",
+        "text-style: underline;",
+        "text-underline: yes;",
+        "underline: yes;"
+      ],
+      "correct": "text-decoration: underline;"
+    },
+    {
+      "skill": "CSS",
+      "difficulty": "Easy",
+      "question": "What is the purpose of the 'cursor' property in CSS?",
+      "options": [
+        "To set the font-family of an element",
+        "To set the font-size of an element",
+        "To set the color of an element",
+        "To set the shape of the mouse pointer"
+      ],
+      "correct": "To set the shape of the mouse pointer"
+    },
+    {
+      "skill": "CSS",
+      "difficulty": "Easy",
+      "question": "Which property is used to set the background color of an element?",
+      "options": ["background-color", "bgcolor", "background", "color"],
+      "correct": "background-color"
+    },
+    {
+      "skill": "CSS",
+      "difficulty": "Easy",
+      "question": "What is the purpose of the 'visibility' property in CSS?",
+      "options": [
+        "To set the display of an element",
+        "To set the background of an element",
+        "To set the border of an element",
+        "To set the visibility of an element"
+      ],
+      "correct": "To set the visibility of an element"
+    },
+    {
+      "skill": "CSS",
+      "difficulty": "Easy",
+      "question": "Which property is used to set the border style of an element?",
+      "options": ["border-style", "border", "border-width", "border-color"],
+      "correct": "border-style"
+    },
+    {
+      "skill": "CSS",
+      "difficulty": "Easy",
+      "question": "What is the purpose of the 'float' property in CSS?",
+      "options": [
+        "To set the display of an element",
+        "To set the background of an element",
+        "To set the border of an element",
+        "To set the float of an element"
+      ],
+      "correct": "To set the float of an element"
+    },
+    {
+      "skill": "CSS",
+      "difficulty": "Easy",
+      "question": "Which property is used to set the width of an element?",
+      "options": ["width", "height", "size", "dimension"],
+      "correct": "width"
+    },
+    {
+      "skill": "CSS",
+      "difficulty": "Easy",
+      "question": "What is the purpose of the 'overflow' property in CSS?",
+      "options": [
+        "To set the display of an element",
+        "To set the background of an element",
+        "To set the border of an element",
+        "To set the overflow of an element"
+      ],
+      "correct": "To set the overflow of an element"
+    },
+    {
+      "skill": "CSS",
+      "difficulty": "Easy",
+      "question": "Which property is used to set the height of an element?",
+      "options": ["height", "width", "size", "dimension"],
+      "correct": "height"
+    },
+    {
+      "skill": "CSS",
+      "difficulty": "Easy",
+      "question": "What is the purpose of the 'position' property in CSS?",
+      "options": [
+        "To set the display of an element",
+        "To set the background of an element",
+        "To set the position of an element",
+        "To set the float of an element"
+      ],
+      "correct": "To set the position of an element"
+    },
+    {
+      "skill": "CSS",
+      "difficulty": "Easy",
+      "question": "Which property is used to set the left position of an element?",
+      "options": ["left", "right", "top", "bottom"],
+      "correct": "left"
+    },
+    {
+      "skill": "CSS",
+      "difficulty": "Easy",
+      "question": "What is the purpose of the 'display' property in CSS?",
+      "options": [
+        "To set the background of an element",
+        "To set the border of an element",
+        "To set the display of an element",
+        "To set the position of an element"
+      ],
+      "correct": "To set the display of an element"
+    },
+    {
+      "skill": "CSS",
+      "difficulty": "Easy",
+      "question": "Which property is used to set the right position of an element?",
+      "options": ["right", "left", "top", "bottom"],
+      "correct": "right"
+    },
+    {
+      "skill": "CSS",
+      "difficulty": "Easy",
+      "question": "What is the purpose of the 'clear' property in CSS?",
+      "options": [
+        "To set the display of an element",
+        "To set the background of an element",
+        "To set the border of an element",
+        "To set the clear of an element"
+      ],
+      "correct": "To set the clear of an element"
+    },
+    {
+      "skill": "CSS",
+      "difficulty": "Easy",
+      "question": "Which property is used to set the top position of an element?",
+      "options": ["top", "left", "right", "bottom"],
+      "correct": "top"
+    },
+    {
+      "skill": "CSS",
+      "difficulty": "Easy",
+      "question": "What is the purpose of the 'z-index' property in CSS?",
+      "options": [
+        "To set the display of an element",
+        "To set the background of an element",
+        "To set the border of an element",
+        "To set the z-index of an element"
+      ],
+      "correct": "To set the z-index of an element"
+    },
+    {
+      "skill": "CSS",
+      "difficulty": "Easy",
+      "question": "Which property is used to set the bottom position of an element?",
+      "options": ["bottom", "left", "right", "top"],
+      "correct": "bottom"
+    },
+    {
+      "skill": "CSS",
+      "difficulty": "Easy",
+      "question": "What is the purpose of the 'vertical-align' property in CSS?",
+      "options": [
+        "To set the display of an element",
+        "To set the background of an element",
+        "To set the border of an element",
+        "To set the vertical-align of an element"
+      ],
+      "correct": "To set the vertical-align of an element"
+    },
+    {
+      "skill": "CSS",
+      "difficulty": "Easy",
+      "question": "Which property is used to set the margin of an element?",
+      "options": ["margin", "padding", "border", "width"],
+      "correct": "margin"
+    },
+    {
+      "skill": "CSS",
+      "difficulty": "Easy",
+      "question": "What is the purpose of the 'box-sizing' property in CSS?",
+      "options": [
+        "To set the display of an element",
+        "To set the background of an element",
+        "To set the border of an element",
+        "To set the box-sizing of an element"
+      ],
+      "correct": "To set the box-sizing of an element"
+    },
+    {
+      "skill": "CSS",
+      "difficulty": "Easy",
+      "question": "Which property is used to set the padding of an element?",
+      "options": ["padding", "margin", "border", "width"],
+      "correct": "padding"
+    },
+    {
+      "skill": "CSS",
+      "difficulty": "Easy",
+      "question": "What is the purpose of the 'list-style' property in CSS?",
+      "options": [
+        "To set the display of an element",
+        "To set the background of an element",
+        "To set the border of an element",
+        "To set the list-style of an element"
+      ],
+      "correct": "To set the list-style of an element"
+    },
+    {
+      "skill": "CSS",
+      "difficulty": "Easy",
+      "question": "Which property is used to set the outline of an element?",
+      "options": ["outline", "border", "padding", "margin"],
+      "correct": "outline"
+    },
+    {
+      "skill": "CSS",
+      "difficulty": "Easy",
+      "question": "What is the purpose of the 'opacity' property in CSS?",
+      "options": [
+        "To set the display of an element",
+        "To set the background of an element",
+        "To set the border of an element",
+        "To set the opacity of an element"
+      ],
+      "correct": "To set the opacity of an element"
+    },
+    {
+      "skill": "CSS",
+      "difficulty": "Easy",
+      "question": "Which property is used to set the border radius of an element?",
+      "options": [
+        "border-radius",
+        "border-width",
+        "border-style",
+        "border-color"
+      ],
+      "correct": "border-radius"
+    },
+    {
+      "skill": "CSS",
+      "difficulty": "Easy",
+      "question": "What is the purpose of the 'text-transform' property in CSS?",
+      "options": [
+        "To set the font-family of an element",
+        "To set the font-size of an element",
+        "To set the color of an element",
+        "To set the text-transform of an element"
+      ],
+      "correct": "To set the text-transform of an element"
+    },
+    {
+      "skill": "CSS",
+      "difficulty": "Easy",
+      "question": "Which property is used to set the padding of an element?",
+      "options": ["padding", "margin", "border", "width"],
+      "correct": "padding"
+    },
+    {
+      "skill": "CSS",
+      "difficulty": "Easy",
+      "question": "What is the purpose of the 'text-align' property in CSS?",
+      "options": [
+        "To set the font-family of an element",
+        "To set the font-size of an element",
+        "To set the color of an element",
+        "To set the text-align of an element"
+      ],
+      "correct": "To set the text-align of an element"
+    },
+    {
+      "skill": "CSS",
+      "difficulty": "Easy",
+      "question": "Which property is used to set the margin of an element?",
+      "options": ["margin", "padding", "border", "width"],
+      "correct": "margin"
+    },
+    {
+      "skill": "CSS",
+      "difficulty": "Easy",
+      "question": "What is the purpose of the 'font-style' property in CSS?",
+      "options": [
+        "To set the font-family of an element",
+        "To set the font-size of an element",
+        "To set the color of an element",
+        "To set the font-style of an element"
+      ],
+      "correct": "To set the font-style of an element"
+    },
+    {
+      "skill": "CSS",
+      "difficulty": "Easy",
+      "question": "Which property is used to set the border of an element?",
+      "options": ["border", "padding", "margin", "width"],
+      "correct": "border"
+    },
+    {
+      "skill": "CSS",
+      "difficulty": "Easy",
+      "question": "What is the purpose of the 'font-weight' property in CSS?",
+      "options": [
+        "To set the font-family of an element",
+        "To set the font-size of an element",
+        "To set the color of an element",
+        "To set the font-weight of an element"
+      ],
+      "correct": "To set the font-weight of an element"
+    },
+    {
+      "skill": "CSS",
+      "difficulty": "Easy",
+      "question": "Which property is used to set the text-decoration of an element?",
+      "options": [
+        "text-decoration",
+        "text-transform",
+        "text-align",
+        "font-style"
+      ],
+      "correct": "text-decoration"
+    },
+    {
+      "skill": "CSS",
+      "difficulty": "Easy",
+      "question": "What is the purpose of the 'overflow' property in CSS?",
+      "options": [
+        "To set the display of an element",
+        "To set the background of an element",
+        "To set the border of an element",
+        "To set the overflow of an element"
+      ],
+      "correct": "To set the overflow of an element"
+    },
+    {
+      "skill": "CSS",
+      "difficulty": "Easy",
+      "question": "Which property is used to set the vertical-align of an element?",
+      "options": [
+        "vertical-align",
+        "text-align",
+        "font-style",
+        "text-transform"
+      ],
+      "correct": "vertical-align"
+    },
+    {
+      "skill": "CSS",
+      "difficulty": "Easy",
+      "question": "What is the purpose of the 'background-size' property in CSS?",
+      "options": [
+        "To set the display of an element",
+        "To set the background of an element",
+        "To set the border of an element",
+        "To set the size of the background of an element"
+      ],
+      "correct": "To set the size of the background of an element"
+    },
+    {
+      "skill": "CSS",
+      "difficulty": "Easy",
+      "question": "Which property is used to set the outline of an element?",
+      "options": ["outline", "border", "padding", "margin"],
+      "correct": "outline"
+    },
+    {
+      "skill": "CSS",
+      "difficulty": "Easy",
+      "question": "What is the purpose of the 'position' property in CSS?",
+      "options": [
+        "To set the display of an element",
+        "To set the background of an element",
+        "To set the border of an element",
+        "To set the position of an element"
+      ],
+      "correct": "To set the position of an element"
+    },
+    {
+      "skill": "CSS",
+      "difficulty": "Easy",
+      "question": "Which property is used to set the z-index of an element?",
+      "options": ["z-index", "position", "top", "left"],
+      "correct": "z-index"
+    },
+    {
+      "skill": "CSS",
+      "difficulty": "Easy",
+      "question": "What is the purpose of the 'display' property in CSS?",
+      "options": [
+        "To set the display of an element",
+        "To set the background of an element",
+        "To set the border of an element",
+        "To set the position of an element"
+      ],
+      "correct": "To set the display of an element"
+    },
+    {
+      "skill": "CSS",
+      "difficulty": "Easy",
+      "question": "Which property is used to set the flex-direction of an element?",
+      "options": [
+        "flex-direction",
+        "flex-wrap",
+        "justify-content",
+        "align-items"
+      ],
+      "correct": "flex-direction"
+    },
+    {
+      "skill": "CSS",
+      "difficulty": "Easy",
+      "question": "What is the purpose of the 'flex-wrap' property in CSS?",
+      "options": [
+        "To set the display of an element",
+        "To set the background of an element",
+        "To set the border of an element",
+        "To set the flex-wrap of an element"
+      ],
+      "correct": "To set the flex-wrap of an element"
+    },
+    {
+      "skill": "CSS",
+      "difficulty": "Easy",
+      "question": "Which property is used to set the justify-content of an element?",
+      "options": [
+        "justify-content",
+        "align-items",
+        "flex-direction",
+        "flex-wrap"
+      ],
+      "correct": "justify-content"
+    },
+    {
+      "skill": "CSS",
+      "difficulty": "Easy",
+      "question": "What is the purpose of the 'align-items' property in CSS?",
+      "options": [
+        "To set the display of an element",
+        "To set the background of an element",
+        "To set the border of an element",
+        "To set the align-items of an element"
+      ],
+      "correct": "To set the align-items of an element"
+    },
+    {
+      "skill": "CSS",
+      "difficulty": "Easy",
+      "question": "What is the purpose of the 'grid-template-columns' property in CSS?",
+      "options": [
+        "To set the display of an element",
+        "To set the background of an element",
+        "To set the border of an element",
+        "To set the grid-template-columns of an element"
+      ],
+      "correct": "To set the grid-template-columns of an element"
+    },
+    {
+      "skill": "CSS",
+      "difficulty": "Easy",
+      "question": "Which property is used to set the grid-template-rows of an element?",
+      "options": [
+        "grid-template-rows",
+        "grid-template-columns",
+        "grid-gap",
+        "grid-auto-flow"
+      ],
+      "correct": "grid-template-rows"
+    },
+    {
+      "skill": "CSS",
+      "difficulty": "Easy",
+      "question": "What is the purpose of the 'grid-gap' property in CSS?",
+      "options": [
+        "To set the display of an element",
+        "To set the background of an element",
+        "To set the border of an element",
+        "To set the grid-gap of an element"
+      ],
+      "correct": "To set the grid-gap of an element"
+    },
+    {
+      "skill": "CSS",
+      "difficulty": "Easy",
+      "question": "Which property is used to set the grid-auto-flow of an element?",
+      "options": [
+        "grid-auto-flow",
+        "grid-template-columns",
+        "grid-template-rows",
+        "grid-gap"
+      ],
+      "correct": "grid-auto-flow"
+    },
+    {
+      "skill": "CSS",
+      "difficulty": "Easy",
+      "question": "What is the purpose of the 'transform' property in CSS?",
+      "options": [
+        "To set the display of an element",
+        "To set the background of an element",
+        "To set the border of an element",
+        "To set the transform of an element"
+      ],
+      "correct": "To set the transform of an element"
+    },
+    {
+      "skill": "CSS",
+      "difficulty": "Easy",
+      "question": "What is the purpose of the 'transition' property in CSS?",
+      "options": [
+        "To set the display of an element",
+        "To set the background of an element",
+        "To set the border of an element",
+        "To set the transition of an element"
+      ],
+      "correct": "To set the transition of an element"
+    },
+    {
+      "skill": "CSS",
+      "difficulty": "Easy",
+      "question": "What is the purpose of the 'animation' property in CSS?",
+      "options": [
+        "To set the display of an element",
+        "To set the background of an element",
+        "To set the border of an element",
+        "To set the animation of an element"
+      ],
+      "correct": "To set the animation of an element"
+    },
+    {
+      "skill": "CSS",
+      "difficulty": "Easy",
+      "question": "What is the purpose of the 'box-shadow' property in CSS?",
+      "options": [
+        "To set the display of an element",
+        "To set the background of an element",
+        "To set the border of an element",
+        "To set the box-shadow of an element"
+      ],
+      "correct": "To set the box-shadow of an element"
+    },
+    {
+      "skill": "CSS",
+      "difficulty": "Easy",
+      "question": "What is the purpose of the 'column-count' property in CSS?",
+      "options": [
+        "To set the display of an element",
+        "To set the background of an element",
+        "To set the border of an element",
+        "To set the column-count of an element"
+      ],
+      "correct": "To set the column-count of an element"
+    },
+    {
+      "skill": "CSS",
+      "difficulty": "Easy",
+      "question": "What is the purpose of the 'column-gap' property in CSS?",
+      "options": [
+        "To set the display of an element",
+        "To set the background of an element",
+        "To set the border of an element",
+        "To set the column-gap of an element"
+      ],
+      "correct": "To set the column-gap of an element"
+    },
+    {
+      "skill": "CSS",
+      "difficulty": "Easy",
+      "question": "What is the purpose of the 'column-rule' property in CSS?",
+      "options": [
+        "To set the display of an element",
+        "To set the background of an element",
+        "To set the border of an element",
+        "To set the column-rule of an element"
+      ],
+      "correct": "To set the column-rule of an element"
+    },
+    {
+      "skill": "CSS",
+      "difficulty": "Easy",
+      "question": "What is the purpose of the 'column-span' property in CSS?",
+      "options": [
+        "To set the display of an element",
+        "To set the background of an element",
+        "To set the border of an element",
+        "To set the column-span of an element"
+      ],
+      "correct": "To set the column-span of an element"
+    },
+    {
+      "skill": "CSS",
+      "difficulty": "Easy",
+      "question": "What is the purpose of the 'column-width' property in CSS?",
+      "options": [
+        "To set the display of an element",
+        "To set the background of an element",
+        "To set the border of an element",
+        "To set the column-width of an element"
+      ],
+      "correct": "To set the column-width of an element"
+    },
+    {
+      "skill": "CSS",
+      "difficulty": "Easy",
+      "question": "What is the purpose of the 'flex-basis' property in CSS?",
+      "options": [
+        "To set the display of an element",
+        "To set the background of an element",
+        "To set the border of an element",
+        "To set the flex-basis of an element"
+      ],
+      "correct": "To set the flex-basis of an element"
+    },
+    {
+      "skill": "CSS",
+      "difficulty": "Easy",
+      "question": "What is the purpose of the 'flex-grow' property in CSS?",
+      "options": [
+        "To set the display of an element",
+        "To set the background of an element",
+        "To set the border of an element",
+        "To set the flex-grow of an element"
+      ],
+      "correct": "To set the flex-grow of an element"
+    },
+    {
+      "skill": "CSS",
+      "difficulty": "Easy",
+      "question": "What is the purpose of the 'flex-shrink' property in CSS?",
+      "options": [
+        "To set the display of an element",
+        "To set the background of an element",
+        "To set the border of an element",
+        "To set the flex-shrink of an element"
+      ],
+      "correct": "To set the flex-shrink of an element"
+    },
+    {
+      "skill": "CSS",
+      "difficulty": "Easy",
+      "question": "What is the purpose of the 'order' property in CSS?",
+      "options": [
+        "To set the display of an element",
+        "To set the background of an element",
+        "To set the border of an element",
+        "To set the order of an element"
+      ],
+      "correct": "To set the order of an element"
+    },
+    {
+      "skill": "CSS",
+      "difficulty": "Easy",
+      "question": "What is the purpose of the 'grid-template-columns' property in CSS?",
+      "options": [
+        "To set the display of an element",
+        "To set the background of an element",
+        "To set the border of an element",
+        "To set the grid-template-columns of an element"
+      ],
+      "correct": "To set the grid-template-columns of an element"
+    },
+    {
+      "skill": "CSS",
+      "difficulty": "Easy",
+      "question": "What is the purpose of the 'grid-template-rows' property in CSS?",
+      "options": [
+        "To set the display of an element",
+        "To set the background of an element",
+        "To set the border of an element",
+        "To set the grid-template-rows of an element"
+      ],
+      "correct": "To set the grid-template-rows of an element"
+    },
+    {
+      "skill": "CSS",
+      "difficulty": "Easy",
+      "question": "What is the purpose of the 'grid-template-areas' property in CSS?",
+      "options": [
+        "To set the display of an element",
+        "To set the background of an element",
+        "To set the border of an element",
+        "To set the grid-template-areas of an element"
+      ],
+      "correct": "To set the grid-template-areas of an element"
+    },
+    {
+      "skill": "CSS",
+      "difficulty": "Easy",
+      "question": "What is the purpose of the 'grid-auto-flow' property in CSS?",
+      "options": [
+        "To set the display of an element",
+        "To set the background of an element",
+        "To set the border of an element",
+        "To set the grid-auto-flow of an element"
+      ],
+      "correct": "To set the grid-auto-flow of an element"
+    },
+    {
+      "skill": "CSS",
+      "difficulty": "Easy",
+      "question": "What is the purpose of the 'grid-auto-columns' property in CSS?",
+      "options": [
+        "To set the display of an element",
+        "To set the background of an element",
+        "To set the border of an element",
+        "To set the grid-auto-columns of an element"
+      ],
+      "correct": "To set the grid-auto-columns of an element"
+    },
+    {
+      "skill": "CSS",
+      "difficulty": "Easy",
+      "question": "What is the purpose of the 'grid-auto-rows' property in CSS?",
+      "options": [
+        "To set the display of an element",
+        "To set the background of an element",
+        "To set the border of an element",
+        "To set the grid-auto-rows of an element"
+      ],
+      "correct": "To set the grid-auto-rows of an element"
+    },
+    {
+      "skill": "CSS",
+      "difficulty": "Easy",
+      "question": "What is the purpose of the 'gap' property in CSS?",
+      "options": [
+        "To set the display of an element",
+        "To set the background of an element",
+        "To set the border of an element",
+        "To set the gap of an element"
+      ],
+      "correct": "To set the gap of an element"
+    },
+    {
+      "skill": "CSS",
+      "difficulty": "Easy",
+      "question": "What is the purpose of the 'column-gap' property in CSS?",
+      "options": [
+        "To set the display of an element",
+        "To set the background of an element",
+        "To set the border of an element",
+        "To set the column-gap of an element"
+      ],
+      "correct": "To set the column-gap of an element"
+    }
+  ]
+}

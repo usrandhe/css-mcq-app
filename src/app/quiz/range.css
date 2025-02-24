@@ -1,0 +1,143 @@
+/* Add this to your CSS file
+.range-slider {
+  position: relative;
+  width: 100%;
+}
+
+.range-slider input[type="range"] {
+  width: 100%;
+  height: 10px;
+  margin: 0;
+  padding: 0;
+  border-radius: 5px;
+  background-color: #ccc;
+  outline: none;
+  -webkit-appearance: none;
+  appearance: none;
+}
+
+.range-slider input[type="range"]::-webkit-slider-thumb {
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  background-color: #007bff;
+  cursor: pointer;
+  -webkit-appearance: none;
+  appearance: none;
+}
+
+.range-slider input[type="range"]::-moz-range-thumb {
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  background-color: #007bff;
+  cursor: pointer;
+  border: none;
+}
+
+.range-slider input[type="range"]::-ms-thumb {
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  background-color: #007bff;
+  cursor: pointer;
+}
+
+.range-slider input[type="range"]::-ms-fill-upper {
+  background-color: #ccc;
+}
+
+.range-slider input[type="range"]::-ms-fill-lower {
+  background-color: #007bff;
+}
+
+.range-slider .range-label {
+  position: absolute;
+  top: -25px;
+  font-size: 12px;
+  color: #666;
+}
+
+.range-slider .range-label:nth-child(1) {
+  left: 0;
+}
+
+.range-slider .range-label:nth-child(2) {
+  left: 25%;
+}
+
+.range-slider .range-label:nth-child(3) {
+  left: 50%;
+}
+
+.range-slider .range-label:nth-child(4) {
+  left: 75%;
+}
+
+.range-slider .range-label:nth-child(5) {
+  left: 100%;
+} */
+
+/* Add this to your CSS file */
+.questions-list {
+  border: 1px solid #ddd;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.questions-list .mb-4 {
+  margin-bottom: 20px;
+}
+
+.questions-list .p-2 {
+  padding: 10px;
+}
+
+.questions-list .border {
+  border: 1px solid #ddd;
+}
+
+.questions-list .rounded {
+  border-radius: 10px;
+}
+.range-slider {
+  position: relative;
+  width: 100%;
+}
+/* Add this to your CSS file */
+.range-label {
+  position: absolute;
+  top: 48px;
+  font-size: 12px;
+  color: #666;
+}
+
+.range-label:nth-child(3) {
+  left: 0;
+}
+
+.range-label:nth-child(2) {
+  left: 25%;
+}
+
+.range-label:nth-child(6) {
+  left: 98%;
+}
+
+.range-label:nth-child(4) {
+  left: 32%;
+}
+
+.range-label:nth-child(5) {
+  left: 65%;
+}
+/* Add this to your CSS file */
+.overflow-y-auto {
+  overflow-y: auto;
+  padding-right: 5px;
+}
+
+.h-96 {
+  height: 24rem;
+}
