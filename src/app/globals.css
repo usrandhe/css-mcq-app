@@ -7,6 +7,31 @@
   --foreground: #171717;
 }
 
+/* Align images with options */
+.option-container {
+  display: inline-flex;
+  align-items: center;
+}
+
+.option-container img {
+  margin-left: 8px; /* Adjust spacing between option text and image */
+}
+
+/* Answer feedback icons */
+.feedback-icon {
+  display: inline-block;
+  margin-left: 0.5rem;
+  vertical-align: middle;
+}
+
+.feedback-icon.correct {
+  color: #22c55e; /* Green for correct answers */
+}
+
+.feedback-icon.wrong {
+  color: #ef4444; /* Red for wrong answers */
+}
+
 @media (prefers-color-scheme: light) {
   :root {
     --background: #7c6f6f;
