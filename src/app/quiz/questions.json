@@ -2,28 +2,28 @@
   "questions": [
     {
       "skill": "CSS",
-      "difficulty": "Easy",
+      "difficulty": "Beginner",
       "question": "Which property is used to change the background color?",
       "options": ["color", "background-color", "bgcolor", "background"],
       "correct": "background-color"
     },
     {
       "skill": "CSS",
-      "difficulty": "Easy",
+      "difficulty": "Beginner",
       "question": "Which unit is relative to the font-size of the element?",
       "options": ["em", "px", "rem", "%"],
       "correct": "em"
     },
     {
       "skill": "CSS",
-      "difficulty": "Easy",
+      "difficulty": "Beginner",
       "question": "Which property controls the text size?",
       "options": ["font-style", "text-size", "font-size", "size"],
       "correct": "font-size"
     },
     {
       "skill": "CSS",
-      "difficulty": "Easy",
+      "difficulty": "Beginner",
       "question": "What does CSS stand for?",
       "options": [
         "Cascading Style Sheets",
@@ -35,21 +35,21 @@
     },
     {
       "skill": "CSS",
-      "difficulty": "Easy",
+      "difficulty": "Beginner",
       "question": "Which CSS property is used to change text color?",
       "options": ["color", "text-color", "font-color", "foreground-color"],
       "correct": "color"
     },
     {
       "skill": "CSS",
-      "difficulty": "Easy",
+      "difficulty": "Beginner",
       "question": "Which CSS property is used to set the font of a text?",
       "options": ["font-family", "text-style", "font-weight", "font"],
       "correct": "font-family"
     },
     {
       "skill": "CSS",
-      "difficulty": "Easy",
+      "difficulty": "Beginner",
       "question": "How do you make text bold in CSS?",
       "options": [
         "font-style: bold;",
@@ -61,42 +61,42 @@
     },
     {
       "skill": "CSS",
-      "difficulty": "Easy",
+      "difficulty": "Beginner",
       "question": "Which CSS property is used to add space inside an element, between the content and the border?",
       "options": ["margin", "padding", "spacing", "border-width"],
       "correct": "padding"
     },
     {
       "skill": "CSS",
-      "difficulty": "Easy",
+      "difficulty": "Beginner",
       "question": "Which property is used to align text to the center of an element?",
       "options": ["align", "text-align", "center-text", "text-position"],
       "correct": "text-align"
     },
     {
       "skill": "CSS",
-      "difficulty": "Easy",
+      "difficulty": "Beginner",
       "question": "Which CSS property is used to control the space outside an element?",
       "options": ["padding", "margin", "border", "spacing"],
       "correct": "margin"
     },
     {
       "skill": "CSS",
-      "difficulty": "Easy",
+      "difficulty": "Beginner",
       "question": "What is the default value of the CSS 'display' property?",
       "options": ["block", "inline", "none", "flex"],
       "correct": "block"
     },
     {
       "skill": "CSS",
-      "difficulty": "Easy",
+      "difficulty": "Beginner",
       "question": "Which CSS property is used to set the line height of a text?",
       "options": ["line-height", "text-height", "font-height", "height"],
       "correct": "line-height"
     },
     {
       "skill": "CSS",
-      "difficulty": "Easy",
+      "difficulty": "Beginner",
       "question": "Which property is used to add an underline to text?",
       "options": [
         "text-decoration: underline;",
@@ -108,7 +108,7 @@
     },
     {
       "skill": "CSS",
-      "difficulty": "Easy",
+      "difficulty": "Beginner",
       "question": "What is the purpose of the 'cursor' property in CSS?",
       "options": [
         "To set the font-family of an element",
@@ -120,14 +120,14 @@
     },
     {
       "skill": "CSS",
-      "difficulty": "Easy",
+      "difficulty": "Beginner",
       "question": "Which property is used to set the background color of an element?",
       "options": ["background-color", "bgcolor", "background", "color"],
       "correct": "background-color"
     },
     {
       "skill": "CSS",
-      "difficulty": "Easy",
+      "difficulty": "Beginner",
       "question": "What is the purpose of the 'visibility' property in CSS?",
       "options": [
         "To set the display of an element",
@@ -139,14 +139,14 @@
     },
     {
       "skill": "CSS",
-      "difficulty": "Easy",
+      "difficulty": "Beginner",
       "question": "Which property is used to set the border style of an element?",
       "options": ["border-style", "border", "border-width", "border-color"],
       "correct": "border-style"
     },
     {
       "skill": "CSS",
-      "difficulty": "Easy",
+      "difficulty": "Beginner",
       "question": "What is the purpose of the 'float' property in CSS?",
       "options": [
         "To set the display of an element",
@@ -158,14 +158,14 @@
     },
     {
       "skill": "CSS",
-      "difficulty": "Easy",
+      "difficulty": "Beginner",
       "question": "Which property is used to set the width of an element?",
       "options": ["width", "height", "size", "dimension"],
       "correct": "width"
     },
     {
       "skill": "CSS",
-      "difficulty": "Easy",
+      "difficulty": "Beginner",
       "question": "What is the purpose of the 'overflow' property in CSS?",
       "options": [
         "To set the display of an element",
@@ -177,14 +177,14 @@
     },
     {
       "skill": "CSS",
-      "difficulty": "Easy",
+      "difficulty": "Beginner",
       "question": "Which property is used to set the height of an element?",
       "options": ["height", "width", "size", "dimension"],
       "correct": "height"
     },
     {
       "skill": "CSS",
-      "difficulty": "Easy",
+      "difficulty": "Beginner",
       "question": "What is the purpose of the 'position' property in CSS?",
       "options": [
         "To set the display of an element",
@@ -196,14 +196,14 @@
     },
     {
       "skill": "CSS",
-      "difficulty": "Easy",
+      "difficulty": "Beginner",
       "question": "Which property is used to set the left position of an element?",
       "options": ["left", "right", "top", "bottom"],
       "correct": "left"
     },
     {
       "skill": "CSS",
-      "difficulty": "Easy",
+      "difficulty": "Beginner",
       "question": "What is the purpose of the 'display' property in CSS?",
       "options": [
         "To set the background of an element",
@@ -215,14 +215,14 @@
     },
     {
       "skill": "CSS",
-      "difficulty": "Easy",
+      "difficulty": "Beginner",
       "question": "Which property is used to set the right position of an element?",
       "options": ["right", "left", "top", "bottom"],
       "correct": "right"
     },
     {
       "skill": "CSS",
-      "difficulty": "Easy",
+      "difficulty": "Beginner",
       "question": "What is the purpose of the 'clear' property in CSS?",
       "options": [
         "To set the display of an element",
@@ -234,14 +234,14 @@
     },
     {
       "skill": "CSS",
-      "difficulty": "Easy",
+      "difficulty": "Beginner",
       "question": "Which property is used to set the top position of an element?",
       "options": ["top", "left", "right", "bottom"],
       "correct": "top"
     },
     {
       "skill": "CSS",
-      "difficulty": "Easy",
+      "difficulty": "Beginner",
       "question": "What is the purpose of the 'z-index' property in CSS?",
       "options": [
         "To set the display of an element",
@@ -253,14 +253,14 @@
     },
     {
       "skill": "CSS",
-      "difficulty": "Easy",
+      "difficulty": "Beginner",
       "question": "Which property is used to set the bottom position of an element?",
       "options": ["bottom", "left", "right", "top"],
       "correct": "bottom"
     },
     {
       "skill": "CSS",
-      "difficulty": "Easy",
+      "difficulty": "Beginner",
       "question": "What is the purpose of the 'vertical-align' property in CSS?",
       "options": [
         "To set the display of an element",
@@ -272,14 +272,14 @@
     },
     {
       "skill": "CSS",
-      "difficulty": "Easy",
+      "difficulty": "Beginner",
       "question": "Which property is used to set the margin of an element?",
       "options": ["margin", "padding", "border", "width"],
       "correct": "margin"
     },
     {
       "skill": "CSS",
-      "difficulty": "Easy",
+      "difficulty": "Beginner",
       "question": "What is the purpose of the 'box-sizing' property in CSS?",
       "options": [
         "To set the display of an element",
@@ -291,14 +291,14 @@
     },
     {
       "skill": "CSS",
-      "difficulty": "Easy",
+      "difficulty": "Beginner",
       "question": "Which property is used to set the padding of an element?",
       "options": ["padding", "margin", "border", "width"],
       "correct": "padding"
     },
     {
       "skill": "CSS",
-      "difficulty": "Easy",
+      "difficulty": "Beginner",
       "question": "What is the purpose of the 'list-style' property in CSS?",
       "options": [
         "To set the display of an element",
@@ -310,14 +310,14 @@
     },
     {
       "skill": "CSS",
-      "difficulty": "Easy",
+      "difficulty": "Beginner",
       "question": "Which property is used to set the outline of an element?",
       "options": ["outline", "border", "padding", "margin"],
       "correct": "outline"
     },
     {
       "skill": "CSS",
-      "difficulty": "Easy",
+      "difficulty": "Beginner",
       "question": "What is the purpose of the 'opacity' property in CSS?",
       "options": [
         "To set the display of an element",
@@ -329,7 +329,7 @@
     },
     {
       "skill": "CSS",
-      "difficulty": "Easy",
+      "difficulty": "Beginner",
       "question": "Which property is used to set the border radius of an element?",
       "options": [
         "border-radius",
@@ -341,7 +341,7 @@
     },
     {
       "skill": "CSS",
-      "difficulty": "Easy",
+      "difficulty": "Beginner",
       "question": "What is the purpose of the 'text-transform' property in CSS?",
       "options": [
         "To set the font-family of an element",
@@ -353,14 +353,14 @@
     },
     {
       "skill": "CSS",
-      "difficulty": "Easy",
+      "difficulty": "Beginner",
       "question": "Which property is used to set the padding of an element?",
       "options": ["padding", "margin", "border", "width"],
       "correct": "padding"
     },
     {
       "skill": "CSS",
-      "difficulty": "Easy",
+      "difficulty": "Beginner",
       "question": "What is the purpose of the 'text-align' property in CSS?",
       "options": [
         "To set the font-family of an element",
@@ -372,14 +372,14 @@
     },
     {
       "skill": "CSS",
-      "difficulty": "Easy",
+      "difficulty": "Beginner",
       "question": "Which property is used to set the margin of an element?",
       "options": ["margin", "padding", "border", "width"],
       "correct": "margin"
     },
     {
       "skill": "CSS",
-      "difficulty": "Easy",
+      "difficulty": "Beginner",
       "question": "What is the purpose of the 'font-style' property in CSS?",
       "options": [
         "To set the font-family of an element",
@@ -391,14 +391,14 @@
     },
     {
       "skill": "CSS",
-      "difficulty": "Easy",
+      "difficulty": "Beginner",
       "question": "Which property is used to set the border of an element?",
       "options": ["border", "padding", "margin", "width"],
       "correct": "border"
     },
     {
       "skill": "CSS",
-      "difficulty": "Easy",
+      "difficulty": "Beginner",
       "question": "What is the purpose of the 'font-weight' property in CSS?",
       "options": [
         "To set the font-family of an element",
@@ -410,7 +410,7 @@
     },
     {
       "skill": "CSS",
-      "difficulty": "Easy",
+      "difficulty": "Beginner",
       "question": "Which property is used to set the text-decoration of an element?",
       "options": [
         "text-decoration",
@@ -422,7 +422,7 @@
     },
     {
       "skill": "CSS",
-      "difficulty": "Easy",
+      "difficulty": "Beginner",
       "question": "What is the purpose of the 'overflow' property in CSS?",
       "options": [
         "To set the display of an element",
@@ -434,7 +434,7 @@
     },
     {
       "skill": "CSS",
-      "difficulty": "Easy",
+      "difficulty": "Beginner",
       "question": "Which property is used to set the vertical-align of an element?",
       "options": [
         "vertical-align",
@@ -446,7 +446,7 @@
     },
     {
       "skill": "CSS",
-      "difficulty": "Easy",
+      "difficulty": "Beginner",
       "question": "What is the purpose of the 'background-size' property in CSS?",
       "options": [
         "To set the display of an element",
@@ -458,14 +458,14 @@
     },
     {
       "skill": "CSS",
-      "difficulty": "Easy",
+      "difficulty": "Beginner",
       "question": "Which property is used to set the outline of an element?",
       "options": ["outline", "border", "padding", "margin"],
       "correct": "outline"
     },
     {
       "skill": "CSS",
-      "difficulty": "Easy",
+      "difficulty": "Beginner",
       "question": "What is the purpose of the 'position' property in CSS?",
       "options": [
         "To set the display of an element",
@@ -477,14 +477,14 @@
     },
     {
       "skill": "CSS",
-      "difficulty": "Easy",
+      "difficulty": "Beginner",
       "question": "Which property is used to set the z-index of an element?",
       "options": ["z-index", "position", "top", "left"],
       "correct": "z-index"
     },
     {
       "skill": "CSS",
-      "difficulty": "Easy",
+      "difficulty": "Beginner",
       "question": "What is the purpose of the 'display' property in CSS?",
       "options": [
         "To set the display of an element",
@@ -496,7 +496,7 @@
     },
     {
       "skill": "CSS",
-      "difficulty": "Easy",
+      "difficulty": "Beginner",
       "question": "Which property is used to set the flex-direction of an element?",
       "options": [
         "flex-direction",
@@ -508,7 +508,7 @@
     },
     {
       "skill": "CSS",
-      "difficulty": "Easy",
+      "difficulty": "Beginner",
       "question": "What is the purpose of the 'flex-wrap' property in CSS?",
       "options": [
         "To set the display of an element",
@@ -520,7 +520,7 @@
     },
     {
       "skill": "CSS",
-      "difficulty": "Easy",
+      "difficulty": "Beginner",
       "question": "Which property is used to set the justify-content of an element?",
       "options": [
         "justify-content",
@@ -532,7 +532,7 @@
     },
     {
       "skill": "CSS",
-      "difficulty": "Easy",
+      "difficulty": "Beginner",
       "question": "What is the purpose of the 'align-items' property in CSS?",
       "options": [
         "To set the display of an element",
@@ -544,7 +544,7 @@
     },
     {
       "skill": "CSS",
-      "difficulty": "Easy",
+      "difficulty": "Beginner",
       "question": "What is the purpose of the 'grid-template-columns' property in CSS?",
       "options": [
         "To set the display of an element",
@@ -556,7 +556,7 @@
     },
     {
       "skill": "CSS",
-      "difficulty": "Easy",
+      "difficulty": "Beginner",
       "question": "Which property is used to set the grid-template-rows of an element?",
       "options": [
         "grid-template-rows",
@@ -568,7 +568,7 @@
     },
     {
       "skill": "CSS",
-      "difficulty": "Easy",
+      "difficulty": "Beginner",
       "question": "What is the purpose of the 'grid-gap' property in CSS?",
       "options": [
         "To set the display of an element",
@@ -580,7 +580,7 @@
     },
     {
       "skill": "CSS",
-      "difficulty": "Easy",
+      "difficulty": "Beginner",
       "question": "Which property is used to set the grid-auto-flow of an element?",
       "options": [
         "grid-auto-flow",
@@ -592,7 +592,7 @@
     },
     {
       "skill": "CSS",
-      "difficulty": "Easy",
+      "difficulty": "Beginner",
       "question": "What is the purpose of the 'transform' property in CSS?",
       "options": [
         "To set the display of an element",
@@ -604,7 +604,7 @@
     },
     {
       "skill": "CSS",
-      "difficulty": "Easy",
+      "difficulty": "Beginner",
       "question": "What is the purpose of the 'transition' property in CSS?",
       "options": [
         "To set the display of an element",
@@ -616,7 +616,7 @@
     },
     {
       "skill": "CSS",
-      "difficulty": "Easy",
+      "difficulty": "Beginner",
       "question": "What is the purpose of the 'animation' property in CSS?",
       "options": [
         "To set the display of an element",
@@ -628,7 +628,7 @@
     },
     {
       "skill": "CSS",
-      "difficulty": "Easy",
+      "difficulty": "Beginner",
       "question": "What is the purpose of the 'box-shadow' property in CSS?",
       "options": [
         "To set the display of an element",
@@ -640,7 +640,7 @@
     },
     {
       "skill": "CSS",
-      "difficulty": "Easy",
+      "difficulty": "Beginner",
       "question": "What is the purpose of the 'column-count' property in CSS?",
       "options": [
         "To set the display of an element",
@@ -652,7 +652,7 @@
     },
     {
       "skill": "CSS",
-      "difficulty": "Easy",
+      "difficulty": "Beginner",
       "question": "What is the purpose of the 'column-gap' property in CSS?",
       "options": [
         "To set the display of an element",
@@ -664,7 +664,7 @@
     },
     {
       "skill": "CSS",
-      "difficulty": "Easy",
+      "difficulty": "Beginner",
       "question": "What is the purpose of the 'column-rule' property in CSS?",
       "options": [
         "To set the display of an element",
@@ -676,7 +676,7 @@
     },
     {
       "skill": "CSS",
-      "difficulty": "Easy",
+      "difficulty": "Beginner",
       "question": "What is the purpose of the 'column-span' property in CSS?",
       "options": [
         "To set the display of an element",
@@ -688,7 +688,7 @@
     },
     {
       "skill": "CSS",
-      "difficulty": "Easy",
+      "difficulty": "Beginner",
       "question": "What is the purpose of the 'column-width' property in CSS?",
       "options": [
         "To set the display of an element",
@@ -700,7 +700,7 @@
     },
     {
       "skill": "CSS",
-      "difficulty": "Easy",
+      "difficulty": "Beginner",
       "question": "What is the purpose of the 'flex-basis' property in CSS?",
       "options": [
         "To set the display of an element",
@@ -712,7 +712,7 @@
     },
     {
       "skill": "CSS",
-      "difficulty": "Easy",
+      "difficulty": "Beginner",
       "question": "What is the purpose of the 'flex-grow' property in CSS?",
       "options": [
         "To set the display of an element",
@@ -724,7 +724,7 @@
     },
     {
       "skill": "CSS",
-      "difficulty": "Easy",
+      "difficulty": "Beginner",
       "question": "What is the purpose of the 'flex-shrink' property in CSS?",
       "options": [
         "To set the display of an element",
@@ -736,7 +736,7 @@
     },
     {
       "skill": "CSS",
-      "difficulty": "Easy",
+      "difficulty": "Beginner",
       "question": "What is the purpose of the 'order' property in CSS?",
       "options": [
         "To set the display of an element",
@@ -748,7 +748,7 @@
     },
     {
       "skill": "CSS",
-      "difficulty": "Easy",
+      "difficulty": "Beginner",
       "question": "What is the purpose of the 'grid-template-columns' property in CSS?",
       "options": [
         "To set the display of an element",
@@ -760,7 +760,7 @@
     },
     {
       "skill": "CSS",
-      "difficulty": "Easy",
+      "difficulty": "Beginner",
       "question": "What is the purpose of the 'grid-template-rows' property in CSS?",
       "options": [
         "To set the display of an element",
@@ -772,7 +772,7 @@
     },
     {
       "skill": "CSS",
-      "difficulty": "Easy",
+      "difficulty": "Beginner",
       "question": "What is the purpose of the 'grid-template-areas' property in CSS?",
       "options": [
         "To set the display of an element",
@@ -784,7 +784,7 @@
     },
     {
       "skill": "CSS",
-      "difficulty": "Easy",
+      "difficulty": "Beginner",
       "question": "What is the purpose of the 'grid-auto-flow' property in CSS?",
       "options": [
         "To set the display of an element",
@@ -796,7 +796,7 @@
     },
     {
       "skill": "CSS",
-      "difficulty": "Easy",
+      "difficulty": "Beginner",
       "question": "What is the purpose of the 'grid-auto-columns' property in CSS?",
       "options": [
         "To set the display of an element",
@@ -808,7 +808,7 @@
     },
     {
       "skill": "CSS",
-      "difficulty": "Easy",
+      "difficulty": "Beginner",
       "question": "What is the purpose of the 'grid-auto-rows' property in CSS?",
       "options": [
         "To set the display of an element",
@@ -820,7 +820,7 @@
     },
     {
       "skill": "CSS",
-      "difficulty": "Easy",
+      "difficulty": "Beginner",
       "question": "What is the purpose of the 'gap' property in CSS?",
       "options": [
         "To set the display of an element",
@@ -832,7 +832,7 @@
     },
     {
       "skill": "CSS",
-      "difficulty": "Easy",
+      "difficulty": "Beginner",
       "question": "What is the purpose of the 'column-gap' property in CSS?",
       "options": [
         "To set the display of an element",
@@ -841,6 +841,1065 @@
         "To set the column-gap of an element"
       ],
       "correct": "To set the column-gap of an element"
+    },
+
+    {
+      "skill": "UI",
+      "difficulty": "Beginner",
+      "question": "What does UI stand for?",
+      "options": [
+        "User Interaction",
+        "User Interface",
+        "Unique Interface",
+        "User Internet"
+      ],
+      "correct": "User Interface"
+    },
+    {
+      "skill": "UI",
+      "difficulty": "Beginner",
+      "question": "Which color format is commonly used in web UI?",
+      "options": ["Hexadecimal", "Decimal", "Binary", "Octal"],
+      "correct": "Hexadecimal"
+    },
+    {
+      "skill": "UI",
+      "difficulty": "Beginner",
+      "question": "Which of the following is NOT a UI element?",
+      "options": ["Button", "Dropdown", "Checkbox", "Database"],
+      "correct": "Database"
+    },
+    {
+      "skill": "UI",
+      "difficulty": "Beginner",
+      "question": "Which property helps to align content horizontally in CSS Flexbox?",
+      "options": [
+        "align-items",
+        "justify-content",
+        "align-content",
+        "flex-direction"
+      ],
+      "correct": "justify-content"
+    },
+    {
+      "skill": "UI",
+      "difficulty": "Beginner",
+      "question": "Which HTML tag is used to create a button?",
+      "options": ["<input>", "<button>", "<div>", "<span>"],
+      "correct": "<button>"
+    },
+    {
+      "skill": "UI",
+      "difficulty": "Beginner",
+      "question": "Which tool is commonly used to design UI prototypes?",
+      "options": ["Figma", "Photoshop", "Sketch", "All of the above"],
+      "correct": "All of the above"
+    },
+    {
+      "skill": "UI",
+      "difficulty": "Beginner",
+      "question": "Which of the following is used to change font size in CSS?",
+      "options": ["font-size", "text-size", "size", "font"],
+      "correct": "font-size"
+    },
+    {
+      "skill": "UI",
+      "difficulty": "Beginner",
+      "question": "What does UX stand for?",
+      "options": [
+        "User Xperience",
+        "User eXperience",
+        "User Extra",
+        "Ultra Experience"
+      ],
+      "correct": "User eXperience"
+    },
+    {
+      "skill": "UI",
+      "difficulty": "Beginner",
+      "question": "Which CSS property is used for rounded corners?",
+      "options": ["border", "border-radius", "corner", "round"],
+      "correct": "border-radius"
+    },
+    {
+      "skill": "UI",
+      "difficulty": "Beginner",
+      "question": "Which of these is an example of a responsive design technique?",
+      "options": [
+        "Fixed Width",
+        "Media Queries",
+        "Static Layout",
+        "Absolute Positioning"
+      ],
+      "correct": "Media Queries"
+    },
+
+    {
+      "skill": "UI",
+      "difficulty": "Expert",
+      "question": "What is the main purpose of ARIA roles in UI design?",
+      "options": [
+        "To enhance SEO ranking",
+        "To provide accessibility support",
+        "To style components",
+        "To add animations"
+      ],
+      "correct": "To provide accessibility support"
+    },
+    {
+      "skill": "UI",
+      "difficulty": "Expert",
+      "question": "Which technique is commonly used to improve perceived performance in UI?",
+      "options": [
+        "Skeleton screens",
+        "Lazy loading",
+        "Progressive rendering",
+        "All of the above"
+      ],
+      "correct": "All of the above"
+    },
+    {
+      "skill": "UI",
+      "difficulty": "Expert",
+      "question": "What is the term for adjusting interfaces to fit various devices and viewports?",
+      "options": [
+        "Adaptive Design",
+        "Responsive Design",
+        "Fluid Design",
+        "All of the above"
+      ],
+      "correct": "All of the above"
+    },
+    {
+      "skill": "UI",
+      "difficulty": "Expert",
+      "question": "Which metric measures the time from user interaction to UI response?",
+      "options": [
+        "TTI (Time to Interactive)",
+        "First Contentful Paint",
+        "Interaction Latency",
+        "Largest Contentful Paint"
+      ],
+      "correct": "Interaction Latency"
+    },
+    {
+      "skill": "UI",
+      "difficulty": "Expert",
+      "question": "Which of the following are key heuristics in UI/UX design?",
+      "options": [
+        "Visibility of system status",
+        "User control and freedom",
+        "Consistency and standards",
+        "All of the above"
+      ],
+      "correct": "All of the above"
+    },
+    {
+      "skill": "UI",
+      "difficulty": "Expert",
+      "question": "Which library is often used to implement complex UI animations?",
+      "options": ["Framer Motion", "jQuery", "Bootstrap", "SASS"],
+      "correct": "Framer Motion"
+    },
+    {
+      "skill": "UI",
+      "difficulty": "Expert",
+      "question": "In UI, which design principle ensures users can recover from errors easily?",
+      "options": [
+        "Error prevention",
+        "Error recovery",
+        "Error feedback",
+        "Undo support"
+      ],
+      "correct": "Undo support"
+    },
+    {
+      "skill": "UI",
+      "difficulty": "Expert",
+      "question": "Which of these are types of UI patterns?",
+      "options": [
+        "Navigation",
+        "Input Controls",
+        "Feedback",
+        "All of the above"
+      ],
+      "correct": "All of the above"
+    },
+    {
+      "skill": "UI",
+      "difficulty": "Expert",
+      "question": "Which accessibility guideline level is the strictest?",
+      "options": ["WCAG A", "WCAG AA", "WCAG AAA", "WCAG B"],
+      "correct": "WCAG AAA"
+    },
+    {
+      "skill": "UI",
+      "difficulty": "Expert",
+      "question": "Which testing approach is focused on UI appearance and layout?",
+      "options": [
+        "Visual Regression Testing",
+        "Unit Testing",
+        "Integration Testing",
+        "Performance Testing"
+      ],
+      "correct": "Visual Regression Testing"
+    },
+    {
+      "skill": "UI",
+      "difficulty": "Beginner",
+      "question": "Which tag is used to define an unordered list in HTML?",
+      "options": ["ul", "ol", "li", "list"],
+      "correct": "ul"
+    },
+    {
+      "skill": "UI",
+      "difficulty": "Beginner",
+      "question": "What does the 'CSS' stand for?",
+      "options": [
+        "Cascading Style Sheets",
+        "Computer Style Sheets",
+        "Colorful Style Sheets",
+        "Creative Style Sheets"
+      ],
+      "correct": "Cascading Style Sheets"
+    },
+    {
+      "skill": "UI",
+      "difficulty": "Beginner",
+      "question": "Which property is used to set the text color in CSS?",
+      "options": ["color", "text-color", "font-color", "background-color"],
+      "correct": "color"
+    },
+    {
+      "skill": "UI",
+      "difficulty": "Beginner",
+      "question": "Which HTML attribute is used to define inline styles?",
+      "options": ["style", "class", "id", "css"],
+      "correct": "style"
+    },
+    {
+      "skill": "UI",
+      "difficulty": "Beginner",
+      "question": "How do you create a hyperlink in HTML?",
+      "options": ["a", "link", "href", "anchor"],
+      "correct": "a"
+    },
+    {
+      "skill": "UI",
+      "difficulty": "Beginner",
+      "question": "Which property is used to set the background color in CSS?",
+      "options": ["background", "bgcolor", "background-color", "bg-color"],
+      "correct": "background-color"
+    },
+    {
+      "skill": "UI",
+      "difficulty": "Beginner",
+      "question": "Which unit is relative to the font-size of the element?",
+      "options": ["em", "rem", "px", "%"],
+      "correct": "em"
+    },
+    {
+      "skill": "UI",
+      "difficulty": "Beginner",
+      "question": "Which tag is used to display a numbered list?",
+      "options": ["ol", "ul", "li", "list"],
+      "correct": "ol"
+    },
+    {
+      "skill": "UI",
+      "difficulty": "Beginner",
+      "question": "How do you insert a line break in HTML?",
+      "options": ["br", "lb", "break", "ln"],
+      "correct": "br"
+    },
+    {
+      "skill": "UI",
+      "difficulty": "Beginner",
+      "question": "Which property is used to make text bold in CSS?",
+      "options": ["font-weight", "font-style", "bold", "text-weight"],
+      "correct": "font-weight"
+    },
+    {
+      "skill": "UI",
+      "difficulty": "Beginner",
+      "question": "Which CSS property is used to change the font of an element?",
+      "options": ["font-family", "font-style", "font-weight", "font-type"],
+      "correct": "font-family"
+    },
+    {
+      "skill": "UI",
+      "difficulty": "Beginner",
+      "question": "What is the default position of elements in CSS?",
+      "options": ["static", "relative", "absolute", "fixed"],
+      "correct": "static"
+    },
+    {
+      "skill": "UI",
+      "difficulty": "Beginner",
+      "question": "Which tag is used to insert an image in HTML?",
+      "options": ["img", "image", "picture", "src"],
+      "correct": "img"
+    },
+    {
+      "skill": "UI",
+      "difficulty": "Beginner",
+      "question": "Which attribute specifies the source of an image?",
+      "options": ["src", "href", "link", "source"],
+      "correct": "src"
+    },
+    {
+      "skill": "UI",
+      "difficulty": "Beginner",
+      "question": "Which HTML element is used to define a table?",
+      "options": ["table", "tbody", "thead", "td"],
+      "correct": "table"
+    },
+    {
+      "skill": "UI",
+      "difficulty": "Beginner",
+      "question": "How do you make a list item in HTML?",
+      "options": ["li", "ul", "ol", "list"],
+      "correct": "li"
+    },
+    {
+      "skill": "UI",
+      "difficulty": "Beginner",
+      "question": "Which HTML tag is used for the largest heading?",
+      "options": ["h1", "h6", "head", "header"],
+      "correct": "h1"
+    },
+    {
+      "skill": "UI",
+      "difficulty": "Beginner",
+      "question": "Which property is used to add space inside an element in CSS?",
+      "options": ["padding", "margin", "border", "spacing"],
+      "correct": "padding"
+    },
+    {
+      "skill": "UI",
+      "difficulty": "Beginner",
+      "question": "Which property is used to control the space outside an element?",
+      "options": ["margin", "padding", "border", "spacing"],
+      "correct": "margin"
+    },
+    {
+      "skill": "UI",
+      "difficulty": "Beginner",
+      "question": "How do you make a text italic in CSS?",
+      "options": [
+        "font-style: italic;",
+        "font-weight: italic;",
+        "text-style: italic;",
+        "italic: yes;"
+      ],
+      "correct": "font-style: italic;"
+    },
+    {
+      "skill": "UI",
+      "difficulty": "Beginner",
+      "question": "Which input type is used for checkboxes in HTML?",
+      "options": ["checkbox", "radio", "check", "select"],
+      "correct": "checkbox"
+    },
+    {
+      "skill": "UI",
+      "difficulty": "Beginner",
+      "question": "Which CSS property is used to underline text?",
+      "options": [
+        "text-decoration",
+        "text-style",
+        "font-decoration",
+        "underline"
+      ],
+      "correct": "text-decoration"
+    },
+    {
+      "skill": "UI",
+      "difficulty": "Beginner",
+      "question": "Which HTML tag is used to create a button?",
+      "options": ["button", "input", "btn", "form"],
+      "correct": "button"
+    },
+    {
+      "skill": "UI",
+      "difficulty": "Beginner",
+      "question": "Which input type is used for a radio button?",
+      "options": ["radio", "checkbox", "select", "option"],
+      "correct": "radio"
+    },
+    {
+      "skill": "UI",
+      "difficulty": "Beginner",
+      "question": "Which property is used to change the cursor to a pointer?",
+      "options": ["cursor", "pointer", "hover", "cursor-pointer"],
+      "correct": "cursor"
+    },
+    {
+      "skill": "UI",
+      "difficulty": "Beginner",
+      "question": "Which tag is used for an inline container in HTML?",
+      "options": ["span", "div", "section", "article"],
+      "correct": "span"
+    },
+    {
+      "skill": "UI",
+      "difficulty": "Beginner",
+      "question": "What does 'rem' stand for in CSS?",
+      "options": ["root em", "relative em", "reference em", "real em"],
+      "correct": "root em"
+    },
+    {
+      "skill": "UI",
+      "difficulty": "Beginner",
+      "question": "Which of the following is a pseudo-class in CSS?",
+      "options": [":hover", "::after", "hover", "after"],
+      "correct": ":hover"
+    },
+    {
+      "skill": "UI",
+      "difficulty": "Beginner",
+      "question": "How do you write a comment in CSS?",
+      "options": [
+        "/* comment */",
+        "// comment",
+        "<!-- comment -->",
+        "# comment"
+      ],
+      "correct": "/* comment */"
+    },
+    {
+      "skill": "UI",
+      "difficulty": "Beginner",
+      "question": "Which tag is used to create a dropdown list?",
+      "options": ["select", "option", "dropdown", "list"],
+      "correct": "select"
+    },
+    {
+      "skill": "UI",
+      "difficulty": "Beginner",
+      "question": "How do you make a text input field in HTML?",
+      "options": ["input type='text'", "textbox", "text-field", "textinput"],
+      "correct": "input type='text'"
+    },
+    {
+      "skill": "UI",
+      "difficulty": "Beginner",
+      "question": "Which attribute is used to provide an alternate text for an image?",
+      "options": ["alt", "title", "src", "description"],
+      "correct": "alt"
+    },
+    {
+      "skill": "UI",
+      "difficulty": "Beginner",
+      "question": "Which HTML element is used to play a video?",
+      "options": ["video", "media", "movie", "player"],
+      "correct": "video"
+    },
+    {
+      "skill": "UI",
+      "difficulty": "Beginner",
+      "question": "Which property is used to change the font size in CSS?",
+      "options": ["font-size", "font", "text-size", "size"],
+      "correct": "font-size"
+    },
+    {
+      "skill": "UI",
+      "difficulty": "Beginner",
+      "question": "Which attribute is used to open a link in a new tab?",
+      "options": ["target='_blank'", "new", "tab", "open"],
+      "correct": "target='_blank'"
+    },
+    {
+      "skill": "UI",
+      "difficulty": "Beginner",
+      "question": "Which tag is used for the line break?",
+      "options": ["br", "lb", "break", "ln"],
+      "correct": "br"
+    },
+    {
+      "skill": "UI",
+      "difficulty": "Beginner",
+      "question": "Which CSS property is used to make the background image cover the entire element?",
+      "options": [
+        "background-size: cover",
+        "background: cover",
+        "cover",
+        "bg-cover"
+      ],
+      "correct": "background-size: cover"
+    },
+    {
+      "skill": "UI",
+      "difficulty": "Beginner",
+      "question": "Which of the following is NOT a semantic HTML element?",
+      "options": ["div", "header", "footer", "article"],
+      "correct": "div"
+    },
+    {
+      "skill": "UI",
+      "difficulty": "Beginner",
+      "question": "Which input type is used for passwords?",
+      "options": ["password", "text", "secure", "hidden"],
+      "correct": "password"
+    },
+    {
+      "skill": "UI",
+      "difficulty": "Beginner",
+      "question": "Which tag is used to add a caption to a table?",
+      "options": ["caption", "title", "heading", "label"],
+      "correct": "caption"
+    },
+    {
+      "skill": "UI",
+      "difficulty": "Beginner",
+      "question": "Which tag is used for the main content of a document?",
+      "options": ["main", "section", "div", "article"],
+      "correct": "main"
+    },
+    {
+      "skill": "UI",
+      "difficulty": "Beginner",
+      "question": "Which attribute is used to disable an input field?",
+      "options": ["disabled", "readonly", "inactive", "disable"],
+      "correct": "disabled"
+    },
+    {
+      "skill": "UI",
+      "difficulty": "Beginner",
+      "question": "Which property sets the width of a border?",
+      "options": ["border-width", "border-size", "border", "border-thickness"],
+      "correct": "border-width"
+    },
+    {
+      "skill": "UI",
+      "difficulty": "Beginner",
+      "question": "How do you set the favicon for a website?",
+      "options": [
+        "link rel='icon'",
+        "meta name='icon'",
+        "favicon tag",
+        "img rel='icon'"
+      ],
+      "correct": "link rel='icon'"
+    },
+    {
+      "skill": "UI",
+      "difficulty": "Beginner",
+      "question": "Which CSS property is used to create a flexible container?",
+      "options": ["display: flex", "flex", "flexbox", "container"],
+      "correct": "display: flex"
+    },
+    {
+      "skill": "UI",
+      "difficulty": "Beginner",
+      "question": "Which property is used to make an element float to the right?",
+      "options": [
+        "float: right",
+        "position: right",
+        "align: right",
+        "float-right"
+      ],
+      "correct": "float: right"
+    },
+    {
+      "skill": "UI",
+      "difficulty": "Beginner",
+      "question": "Which input type is used for selecting a date?",
+      "options": ["date", "datetime", "calendar", "time"],
+      "correct": "date"
+    },
+    {
+      "skill": "UI",
+      "difficulty": "Beginner",
+      "question": "Which CSS property is used to hide an element?",
+      "options": ["display: none", "visibility: hidden", "hide", "opacity: 0"],
+      "correct": "display: none"
+    },
+    {
+      "skill": "UI",
+      "difficulty": "Beginner",
+      "question": "Which tag is used for creating a form in HTML?",
+      "options": ["form", "input", "fieldset", "section"],
+      "correct": "form"
+    },
+    {
+      "skill": "UI",
+      "difficulty": "Beginner",
+      "question": "Which attribute is used to group radio buttons?",
+      "options": ["name", "group", "id", "radio-group"],
+      "correct": "name"
+    },
+
+    {
+      "skill": "UI",
+      "difficulty": "Expert",
+      "question": "What is the primary advantage of using CSS Grid over Flexbox?",
+      "options": [
+        "Better support for one-dimensional layouts",
+        "More control over two-dimensional layouts (rows and columns)",
+        "Easier to handle media queries",
+        "More efficient for inline elements"
+      ],
+      "correct": "More control over two-dimensional layouts (rows and columns)"
+    },
+    {
+      "skill": "UI",
+      "difficulty": "Expert",
+      "question": "Which design principle is best described as 'users should not have to remember information from one part of the UI to another'?",
+      "options": [
+        "Consistency and standards",
+        "Recognition rather than recall",
+        "Error prevention",
+        "Flexibility and efficiency of use"
+      ],
+      "correct": "Recognition rather than recall"
+    },
+    {
+      "skill": "UI",
+      "difficulty": "Expert",
+      "question": "Which of the following is a key advantage of using CSS variables (custom properties)?",
+      "options": [
+        "They automatically adjust for responsive design",
+        "They can be dynamically changed at runtime with JavaScript",
+        "They have better browser support than SASS variables",
+        "They require no browser prefixing"
+      ],
+      "correct": "They can be dynamically changed at runtime with JavaScript"
+    },
+    {
+      "skill": "UI",
+      "difficulty": "Expert",
+      "question": "Which of the following is NOT a benefit of component-driven UI architecture?",
+      "options": [
+        "Improved reusability",
+        "Better state isolation",
+        "Automatic SEO optimization",
+        "Faster development and testing cycles"
+      ],
+      "correct": "Automatic SEO optimization"
+    },
+    {
+      "skill": "UI",
+      "difficulty": "Expert",
+      "question": "Which of the following CSS features allows you to scope styles to a specific component in pure CSS (without pre-processors)?",
+      "options": [
+        ":host selector in Shadow DOM",
+        "BEM (Block Element Modifier) methodology",
+        "CSS Grid area names",
+        "CSS nesting"
+      ],
+      "correct": ":host selector in Shadow DOM"
+    },
+
+    {
+      "skill": "UI",
+      "difficulty": "Expert",
+      "question": "Which of the following improves perceived performance in UI?",
+      "options": [
+        "Lazy loading non-critical resources",
+        "Using system fonts over web fonts",
+        "Skeleton screens and progress indicators",
+        "All of the above"
+      ],
+      "correct": "All of the above"
+    },
+    {
+      "skill": "UI",
+      "difficulty": "Expert",
+      "question": "What CSS feature enables you to create complex layered designs by stacking multiple background images and gradients?",
+      "options": [
+        "background-image layering",
+        "z-index stacking",
+        "multi-layer shadows",
+        "clip-path layering"
+      ],
+      "correct": "background-image layering"
+    },
+    {
+      "skill": "UI",
+      "difficulty": "Expert",
+      "question": "Which of the following techniques helps prevent 'layout thrashing' when manipulating DOM styles via JavaScript?",
+      "options": [
+        "Using requestAnimationFrame",
+        "Batching DOM reads and writes separately",
+        "Debouncing high-frequency events",
+        "All of the above"
+      ],
+      "correct": "All of the above"
+    },
+    {
+      "skill": "UI",
+      "difficulty": "Expert",
+      "question": "In advanced UI architecture, what is 'Progressive Disclosure'?",
+      "options": [
+        "Showing critical information first and revealing more detail on user interaction",
+        "Loading UI components in sequence",
+        "Using animation to guide user attention",
+        "Applying graceful degradation for legacy browsers"
+      ],
+      "correct": "Showing critical information first and revealing more detail on user interaction"
+    },
+    {
+      "skill": "UI",
+      "difficulty": "Expert",
+      "question": "What is the most performance-efficient CSS selector type?",
+      "options": [
+        "ID selectors",
+        "Class selectors",
+        "Type selectors",
+        "Universal selectors"
+      ],
+      "correct": "ID selectors"
+    },
+    {
+      "skill": "UI",
+      "difficulty": "Expert",
+      "question": "What CSS property combination allows for creating a 'glassmorphism' effect?",
+      "options": [
+        "backdrop-filter: blur() and semi-transparent background-color",
+        "box-shadow and opacity",
+        "background-clip and transparency",
+        "filter: contrast() and opacity"
+      ],
+      "correct": "backdrop-filter: blur() and semi-transparent background-color"
+    },
+    {
+      "skill": "UI",
+      "difficulty": "Expert",
+      "question": "Which of the following is a key pattern in accessible UI design?",
+      "options": [
+        "Use ARIA roles only when semantic HTML cannot be used",
+        "Hide all labels and rely on placeholders",
+        "Disable tab navigation for non-critical elements",
+        "Use as many animations as possible to engage users"
+      ],
+      "correct": "Use ARIA roles only when semantic HTML cannot be used"
+    },
+    {
+      "skill": "UI",
+      "difficulty": "Expert",
+      "question": "Which is true about 'Critical CSS' optimization?",
+      "options": [
+        "It loads all CSS upfront to prevent FOUC",
+        "It extracts and inlines above-the-fold CSS for faster rendering",
+        "It delays CSS loading until the user interacts",
+        "It bundles all styles into a single CSS file"
+      ],
+      "correct": "It extracts and inlines above-the-fold CSS for faster rendering"
+    },
+    {
+      "skill": "UI",
+      "difficulty": "Expert",
+      "question": "What is the main purpose of using Atomic Design principles in UI development?",
+      "options": [
+        "To enforce strict coding standards",
+        "To design UIs from smallest components to full pages in a systematic hierarchy",
+        "To limit the use of global styles",
+        "To improve the visual performance of animations"
+      ],
+      "correct": "To design UIs from smallest components to full pages in a systematic hierarchy"
+    },
+    {
+      "skill": "UI",
+      "difficulty": "Expert",
+      "question": "Which is considered a micro-interaction in UI?",
+      "options": [
+        "Form submission confirmation",
+        "Button hover animation",
+        "Navigation menu transitions",
+        "All of the above"
+      ],
+      "correct": "All of the above"
+    },
+    {
+      "skill": "UI",
+      "difficulty": "Expert",
+      "question": "Which concept ensures the UI remains usable and visually consistent across all devices and resolutions?",
+      "options": [
+        "Responsive Design",
+        "Adaptive Design",
+        "Mobile-first Design",
+        "All of the above"
+      ],
+      "correct": "All of the above"
+    },
+    {
+      "skill": "UI",
+      "difficulty": "Expert",
+      "question": "What is the best CSS strategy to handle dark mode support?",
+      "options": [
+        "Use prefers-color-scheme media query",
+        "Use theme-based CSS variables",
+        "Both of the above",
+        "Rely only on JavaScript theme toggling"
+      ],
+      "correct": "Both of the above"
+    },
+    {
+      "skill": "UI",
+      "difficulty": "Expert",
+      "question": "Which of the following is a good strategy for reducing Cumulative Layout Shift (CLS)?",
+      "options": [
+        "Reserve space for images and ads using aspect ratios",
+        "Lazy load images without setting dimensions",
+        "Load custom fonts without font-display swap",
+        "Use animations on layout changes"
+      ],
+      "correct": "Reserve space for images and ads using aspect ratios"
+    },
+    {
+      "skill": "UI",
+      "difficulty": "Expert",
+      "question": "Which JavaScript API is most appropriate for detecting changes in viewport size for responsive UI updates?",
+      "options": [
+        "ResizeObserver",
+        "IntersectionObserver",
+        "MutationObserver",
+        "Screen API"
+      ],
+      "correct": "ResizeObserver"
+    },
+    {
+      "skill": "UI",
+      "difficulty": "Expert",
+      "question": "In UI/UX, what is a 'Design Token'?",
+      "options": [
+        "A reusable style value like color, spacing, typography stored as variables",
+        "A unique user interaction pattern",
+        "A design system naming convention",
+        "A token-based user authentication scheme"
+      ],
+      "correct": "A reusable style value like color, spacing, typography stored as variables"
+    },
+    {
+      "skill": "UI",
+      "difficulty": "Expert",
+      "question": "Which is an accessibility violation when using color as the only visual indicator?",
+      "options": [
+        "Using red text to indicate error without any text label or icon",
+        "Using an icon along with red color to indicate error",
+        "Using color and text label together",
+        "Using ARIA attributes along with color"
+      ],
+      "correct": "Using red text to indicate error without any text label or icon"
+    },
+    {
+      "skill": "UI",
+      "difficulty": "Expert",
+      "question": "What is 'Layout Thrashing' in the browser rendering pipeline?",
+      "options": [
+        "Forcing multiple reflows and repaints due to inefficient DOM manipulation",
+        "Loading unnecessary CSS files",
+        "Rendering too many fonts",
+        "Overusing media queries"
+      ],
+      "correct": "Forcing multiple reflows and repaints due to inefficient DOM manipulation"
+    },
+    {
+      "skill": "UI",
+      "difficulty": "Expert",
+      "question": "What is the correct sequence of browser rendering pipeline steps?",
+      "options": [
+        "JS Execution -> Style Calculation -> Layout -> Paint -> Composite",
+        "JS Execution -> Layout -> Style Calculation -> Paint -> Composite",
+        "Style Calculation -> JS Execution -> Layout -> Composite -> Paint",
+        "Layout -> Style Calculation -> JS Execution -> Paint -> Composite"
+      ],
+      "correct": "JS Execution -> Style Calculation -> Layout -> Paint -> Composite"
+    },
+    {
+      "skill": "UI",
+      "difficulty": "Expert",
+      "question": "Which of these is the most optimized method to lazy load images?",
+      "options": [
+        "Using loading='lazy' attribute on <img> tags",
+        "Using a placeholder and loading via JS on scroll",
+        "Using IntersectionObserver API for custom lazy loading",
+        "All of the above"
+      ],
+      "correct": "All of the above"
+    },
+    {
+      "skill": "UI",
+      "difficulty": "Expert",
+      "question": "What is a major benefit of using CSS Container Queries?",
+      "options": [
+        "They allow components to style themselves based on their parent container size rather than the viewport",
+        "They replace media queries for all use cases",
+        "They improve rendering speed by removing layout recalculations",
+        "They make the entire page layout responsive automatically"
+      ],
+      "correct": "They allow components to style themselves based on their parent container size rather than the viewport"
+    },
+    {
+      "skill": "UI",
+      "difficulty": "Expert",
+      "question": "Which is NOT a valid method for handling responsive typography?",
+      "options": [
+        "CSS clamp() function",
+        "Viewport units (vw, vh)",
+        "Media queries with font-size overrides",
+        "Using rem with fixed pixel root size only"
+      ],
+      "correct": "Using rem with fixed pixel root size only"
+    },
+    {
+      "skill": "UI",
+      "difficulty": "Expert",
+      "question": "Which ARIA role is appropriate for a breadcrumb navigation?",
+      "options": [
+        "role='navigation' with aria-label='breadcrumb'",
+        "role='breadcrumb'",
+        "role='menu'",
+        "role='list'"
+      ],
+      "correct": "role='navigation' with aria-label='breadcrumb'"
+    },
+    {
+      "skill": "UI",
+      "difficulty": "Expert",
+      "question": "Which CSS property allows precise control of how overflowing content is handled?",
+      "options": ["overflow", "clip-path", "display", "contain"],
+      "correct": "overflow"
+    },
+    {
+      "skill": "UI",
+      "difficulty": "Expert",
+      "question": "In accessibility, what is 'Focus Trap' used for?",
+      "options": [
+        "To keep keyboard focus within a modal or dialog",
+        "To ensure no element is focusable",
+        "To reset the page scroll position",
+        "To highlight all focusable elements"
+      ],
+      "correct": "To keep keyboard focus within a modal or dialog"
+    },
+    {
+      "skill": "UI",
+      "difficulty": "Expert",
+      "question": "What performance metric measures the time from when the page starts loading to when the largest visible element is rendered?",
+      "options": [
+        "Largest Contentful Paint (LCP)",
+        "First Input Delay (FID)",
+        "Time to Interactive (TTI)",
+        "Cumulative Layout Shift (CLS)"
+      ],
+      "correct": "Largest Contentful Paint (LCP)"
+    },
+    {
+      "skill": "UI",
+      "difficulty": "Expert",
+      "question": "Which of the following is the recommended approach for reducing unused CSS in production?",
+      "options": [
+        "CSS Purging (e.g., PurgeCSS, Tailwind JIT)",
+        "Loading CSS on demand only",
+        "Inlining critical CSS",
+        "All of the above"
+      ],
+      "correct": "All of the above"
+    },
+    {
+      "skill": "UI",
+      "difficulty": "Expert",
+      "question": "Which HTML5 feature allows storing data on the client side even after the browser is closed?",
+      "options": ["LocalStorage", "SessionStorage", "Cookies", "IndexedDB"],
+      "correct": "LocalStorage"
+    },
+    {
+      "skill": "UI",
+      "difficulty": "Expert",
+      "question": "Which of the following is a recommended practice for improving perceived performance?",
+      "options": [
+        "Skeleton screens during content loading",
+        "Progressive image loading",
+        "Optimizing fonts using font-display: swap",
+        "All of the above"
+      ],
+      "correct": "All of the above"
+    },
+    {
+      "skill": "UI",
+      "difficulty": "Expert",
+      "question": "What is a key advantage of SVG over icon fonts?",
+      "options": [
+        "Better accessibility and control over individual icons",
+        "Faster rendering by default",
+        "Smaller file sizes in all scenarios",
+        "Better support in old browsers"
+      ],
+      "correct": "Better accessibility and control over individual icons"
+    },
+    {
+      "skill": "UI",
+      "difficulty": "Expert",
+      "question": "What is the best way to create an accessible toggle switch?",
+      "options": [
+        "Use a button element with appropriate ARIA attributes like aria-pressed",
+        "Use a div with custom styles only",
+        "Use a checkbox and hide the default UI",
+        "Use any HTML element with click listeners"
+      ],
+      "correct": "Use a button element with appropriate ARIA attributes like aria-pressed"
+    },
+    {
+      "skill": "UI",
+      "difficulty": "Expert",
+      "question": "What is 'FOUT' in the context of web fonts?",
+      "options": [
+        "Flash Of Unstyled Text",
+        "Font Over Unused Text",
+        "First On Unwanted Text",
+        "Fast Over Used Typography"
+      ],
+      "correct": "Flash Of Unstyled Text"
+    },
+    {
+      "skill": "UI",
+      "difficulty": "Expert",
+      "question": "Which approach is recommended when handling theming in a scalable design system?",
+      "options": [
+        "Use CSS variables at the root level and override them per theme",
+        "Create separate CSS files for each theme",
+        "Load themes dynamically using JS only",
+        "Use SCSS mixins only"
+      ],
+      "correct": "Use CSS variables at the root level and override them per theme"
+    },
+    {
+      "skill": "UI",
+      "difficulty": "Expert",
+      "question": "Which of the following is true about IntersectionObserver API?",
+      "options": [
+        "It can detect visibility of elements inside a scrollable container",
+        "It can detect resize events on the window",
+        "It can only work on the viewport, not custom containers",
+        "It requires polyfills for all modern browsers"
+      ],
+      "correct": "It can detect visibility of elements inside a scrollable container"
+    },
+    {
+      "skill": "UI",
+      "difficulty": "Expert",
+      "question": "Which method ensures that fonts do not cause layout shifts when loading?",
+      "options": [
+        "Use font-display: swap",
+        "Use fallback fonts with matching metrics",
+        "Preload fonts",
+        "All of the above"
+      ],
+      "correct": "All of the above"
+    },
+    {
+      "skill": "UI",
+      "difficulty": "Expert",
+      "question": "Which CSS property would you use to create a sticky element?",
+      "options": [
+        "position: sticky",
+        "position: fixed",
+        "position: relative",
+        "position: absolute"
+      ],
+      "correct": "position: sticky"
     }
   ]
 }

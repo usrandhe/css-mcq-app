@@ -6,7 +6,7 @@ import questionsData from "@/app/quiz/questions.json";
 import "@/app/quiz/range.css";
 import Image from "next/image";
 /**
- * Quiz component renders a CSS multiple-choice quiz and allows users to select answers.
+ * Quiz component renders a CSS,UI multiple-choice quiz and allows users to select answers.
  * It also provides functionality to export questions and answers to an Excel file.
  *
  * Features:
@@ -29,8 +29,24 @@ export default function Quiz() {
   const [numQuestions, setNumQuestions] = useState(10);
   const [answers, setAnswers] = useState({});
   const [questions, setQuestions] = useState([]);
-
   const [showFeedback, setShowFeedback] = useState({});
+  const [selectedSkill,setSelectedSkill] = useState("All");
+  const [selectedDifficulty,setSelectedDifficulty] = useState("Beginner");
+
+  const skills = [
+    "All",
+    ...Array.from(new Set(questionsData.questions.map((q)=>
+     
+      q.skill
+    ))),
+  ];
+
+  const difficulty = [
+    ...Array.from(new Set(questionsData.questions.map((q)=>
+      q.difficulty
+    ))),
+  ];
+
 
   const handleAnswer = (index, answer, event) => {
     //console.log(event.target.value);
@@ -39,22 +55,34 @@ export default function Quiz() {
       [index]: { answer: answer, status: event === answer },
     });
 
-    console.log(answers);
+    //console.log(answers);
     setShowFeedback({ ...showFeedback, [index]: true });
 
-    console.log("Feedback:", Object.keys({ ...answers, status: true }).length);
+    //console.log("Feedback:", Object.keys({ ...answers, status: true }).length);
   };
 
   useEffect(() => {
+    // Filter questions by selected skill
+    let filteredQuestions = selectedSkill === 'All' ? questionsData.questions
+    : questionsData.questions.filter((q) => q.skill === selectedSkill && q.difficulty === selectedDifficulty);
+
     const randomQuestions = [];
-    for (let i = 0; i < numQuestions; i++) {
-      const randomIndex = Math.floor(
-        Math.random() * questionsData.questions.length
-      );
-      randomQuestions.push(questionsData.questions[randomIndex]);
+    const usedIndices = new Set();
+
+    const maxQuestions = Math.min(numQuestions, filteredQuestions.length);
+
+    while (randomQuestions.length < maxQuestions) {
+      const randomIndex = Math.floor(Math.random() * filteredQuestions.length);
+      if (!usedIndices.has(randomIndex)) {
+        usedIndices.add(randomIndex);
+        randomQuestions.push(filteredQuestions[randomIndex]);
+      }
     }
+
     setQuestions(randomQuestions);
-  }, [numQuestions]);
+    setAnswers({});
+    setShowFeedback({});
+  }, [numQuestions,selectedSkill,selectedDifficulty]);
 
   const exportToExcel = () => {
     const worksheetData = [
@@ -79,12 +107,46 @@ export default function Quiz() {
     const ws = XLSX.utils.aoa_to_sheet(worksheetData);
     const wb = XLSX.utils.book_new();
     XLSX.utils.book_append_sheet(wb, ws, "MCQs");
-    XLSX.writeFile(wb, `CSS_MCQ_${numQuestions}.xlsx`);
+    XLSX.writeFile(wb, `${selectedSkill}_MCQ_${numQuestions}.xlsx`);
   };
 
   return (
     <div className="p-4 max-w-2xl mx-auto">
-      <h1 className="text-xl font-bold mb-4">CSS MCQ Quiz</h1>
+      <h1 className="text-xl font-bold mb-4">MCQ Quiz</h1>
+
+{/* Skill Selection Dropdown */}
+<div className="mb-4">
+        <label className="block font-semibold mb-2">Select Skill:</label>
+        <select
+          value={selectedSkill}
+          onChange={(e) => setSelectedSkill(e.target.value)}
+          className="border rounded px-2 py-1 w-full cursor-pointer"
+        >
+          {skills.map((skill, idx) => (
+            <option key={idx} value={skill}>
+              {skill}
+            </option>
+          ))}
+        </select>
+      </div>
+
+
+{/* Difficulty Selection Dropdown */}
+<div className="mb-4">
+        <label className="block font-semibold mb-2">Select Difficulty:</label>
+        <select
+          value={selectedDifficulty}
+          onChange={(e) => setSelectedDifficulty(e.target.value)}
+          className="border rounded px-2 py-1 w-full cursor-pointer"
+        >
+          {difficulty.map((skill, idx) => (
+            <option key={idx} value={skill}>
+              {skill}
+            </option>
+          ))}
+        </select>
+      </div>
+
 
       {/* Range Slider */}
       <div className="range-slider">

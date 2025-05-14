@@ -12,7 +12,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata = {
-  title: "CSS MCQ",
+  title: "CSS UI MCQ",
   description: "",
 };
 
